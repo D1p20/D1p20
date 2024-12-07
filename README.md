@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Istiak (@D1p20)
-- 👀 I’m interested in WebDesign
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Python
 
 <!---
 D1p20/D1p20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
