@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Istiak (@D1p20)
-- 🌱 I’m currently learning Python
+- 👋 Hi,
+- 🌱 I’m currently learning chukubuku
 
 <!---
 D1p20/D1p20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
